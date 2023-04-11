@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913956343731",
+    "project_id": "ecomfire-66880",
+    "storage_bucket": "ecomfire-66880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913956343731:android:197ab84e2b9046505fc5c6",
+        "android_client_info": {
+          "package_name": "com.example.ecomfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913956343731-71649ggoh4r4t6tc736bm4bptkl4il2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgjx6eEI9GvxtGGNXRslaJGrIS1ZYdB7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913956343731-71649ggoh4r4t6tc736bm4bptkl4il2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
